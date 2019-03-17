@@ -1,0 +1,17 @@
+{
+  "name": "AppFront",
+  "version": "1.0.0",
+  "description": "фронт сервер тестировагия KeyCloak",
+  "main": "server.js",
+  "dependencies": {
+    "express": "4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [keycloak],
+  "author": "Vitaly Mayatnikov",
+  "license": "ISC"
+}
